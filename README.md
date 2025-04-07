@@ -26,8 +26,14 @@
    ![image](https://github.com/user-attachments/assets/0db5df0f-99e4-436d-babc-6843c518eb75)
 
 8. Lock bad user account so he can't log in
+   ![image](https://github.com/user-attachments/assets/72812c3b-7ff6-4835-ab8e-c1f47c42c1dd)
+
 9. Delete bad user account
+   ![image](https://github.com/user-attachments/assets/cbb2bbae-ec1d-450f-b51b-fb08bfe4fd68)
+
 10. Delete the supplementary group called badgroup
+   ![image](https://github.com/user-attachments/assets/d30bf1f9-d40d-47a4-9968-79e8faa55193)
+
 11. Create a folder called myteam in your home directory and change its permissions to read only for the owner.
 12. Log out and log in by another user
 13. Try to access (by cd command) the folder (myteam)
