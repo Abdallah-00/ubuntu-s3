@@ -72,5 +72,12 @@
    ![image](https://github.com/user-attachments/assets/1768577a-bc91-42ce-b6be-06b3f6a1696e)
 
 21. Copy /etc/passwd to your home directory, use the commands diff and cmp, and Edit in the file you copied, and then use these commands again, and check the output.
+   ![image](https://github.com/user-attachments/assets/d696e253-eb25-452e-9f82-2f5765a725cc)
+
 22. Create a symbolic link of /etc/passwd in /boot.
+   ![image](https://github.com/user-attachments/assets/c371fc98-8697-476d-a038-c5f542417f8e)
+
 23. Create a hard link of /etc/passwd in /boot. Could you? Why?
+   ![image](https://github.com/user-attachments/assets/f2d2e75c-6299-42bc-abd6-6414d9df83f1)
+   _Yes we could
+
