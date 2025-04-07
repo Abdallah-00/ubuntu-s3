@@ -17,8 +17,14 @@
    ![image](https://github.com/user-attachments/assets/0efdb732-7f86-4a13-8efb-4110024a3e5b)
 
 5. Add islam user to the pgroup group as a supplementary group
+   ![image](https://github.com/user-attachments/assets/621e10e1-1010-40f5-90c3-4b508a5dc711)
+
 6. Modify the password of islam's account to password
+   ![image](https://github.com/user-attachments/assets/2906e958-9a45-42d1-ab5c-8601a80ee4a9)
+
 7. Modify islam's account so the password expires after 30 days
+   ![image](https://github.com/user-attachments/assets/0db5df0f-99e4-436d-babc-6843c518eb75)
+
 8. Lock bad user account so he can't log in
 9. Delete bad user account
 10. Delete the supplementary group called badgroup
