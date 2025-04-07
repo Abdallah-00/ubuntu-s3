@@ -35,16 +35,33 @@
    ![image](https://github.com/user-attachments/assets/d30bf1f9-d40d-47a4-9968-79e8faa55193)
 
 11. Create a folder called myteam in your home directory and change its permissions to read only for the owner.
+   ![image](https://github.com/user-attachments/assets/6dd66513-825d-4fca-9307-73c8fe5f17ab)
+
 12. Log out and log in by another user
+   ![image](https://github.com/user-attachments/assets/d47171de-9d66-4e95-bad5-43593876d823)
+
 13. Try to access (by cd command) the folder (myteam)
+   ![image](https://github.com/user-attachments/assets/c3bc75e5-491d-42b9-a074-d01d0e73d500)
+
 14. Using the command Line
     • Change the permissions of oldpasswd file to give owner read and write permissions and for group write and execute and execute only for the others (using chmod in 2 different ways)
     • Change your default permissions to be as above.
+   ![image](https://github.com/user-attachments/assets/c849db25-e46f-4739-8cce-e32009aa3833)
+
     • What is the maximum permission a file can have, by default when it is just created? And what is that for directory.
+    _For files the maximum is 666
+    _For directory the maximum is 777
+    
     • Change your default permissions to be no permission to everyone then create a directory and a file to verify.
 15. Starting from your home directory, find all files that were modified in the last two day.
+   ![image](https://github.com/user-attachments/assets/8d112cea-8a8c-4e1d-bec2-c6da91a17123)
+
 16. Starting from /etc, find files owned by root user.
+   ![image](https://github.com/user-attachments/assets/33c07ca1-a587-44b2-9cb3-fdd38834fe8d)
+
 17. Find all directories in your home directory.
+   ![image](https://github.com/user-attachments/assets/3bfc85c0-5c39-4b03-9768-b93b2fa7c2b1)
+
 18. Write a command to search for all files on the system that, its name is ".profile".
 19. Identify the file types of the following: /etc/passwd, /dev/pts/0, /etc, /dev/sda
 20. List the inode numbers of /, /etc, /etc/hosts.
