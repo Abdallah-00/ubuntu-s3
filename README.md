@@ -11,7 +11,11 @@
   ![image](https://github.com/user-attachments/assets/adfad37d-fc77-487b-9f97-6594a87eb0a1)
 
 3. Create a supplementary (Secondary) group called pgroup with group ID of 30000
+   ![image](https://github.com/user-attachments/assets/4cc0b5e4-9515-4629-968c-87e10533a0cf)
+
 4. Create a supplementary group called badgroup
+   ![image](https://github.com/user-attachments/assets/0efdb732-7f86-4a13-8efb-4110024a3e5b)
+
 5. Add islam user to the pgroup group as a supplementary group
 6. Modify the password of islam's account to password
 7. Modify islam's account so the password expires after 30 days
