@@ -63,8 +63,14 @@
    ![image](https://github.com/user-attachments/assets/3bfc85c0-5c39-4b03-9768-b93b2fa7c2b1)
 
 18. Write a command to search for all files on the system that, its name is ".profile".
+   ![image](https://github.com/user-attachments/assets/587873ea-a13a-4b40-b379-86d162b4580b)
+
 19. Identify the file types of the following: /etc/passwd, /dev/pts/0, /etc, /dev/sda
+   ![image](https://github.com/user-attachments/assets/e241d826-556b-434e-99af-4d969a3d4cd1)
+
 20. List the inode numbers of /, /etc, /etc/hosts.
+   ![image](https://github.com/user-attachments/assets/1768577a-bc91-42ce-b6be-06b3f6a1696e)
+
 21. Copy /etc/passwd to your home directory, use the commands diff and cmp, and Edit in the file you copied, and then use these commands again, and check the output.
 22. Create a symbolic link of /etc/passwd in /boot.
 23. Create a hard link of /etc/passwd in /boot. Could you? Why?
